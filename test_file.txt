@@ -1,3 +1,7 @@
 @author: Adam S.
  
 Test file!
+
+I added this line while in nano.
+
+I added this line once after commited my file.
